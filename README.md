@@ -55,7 +55,7 @@ https://app.powerbi.com/groups/me/reports/e85b94cf-3f77-494f-9260-84ba198bffa1/R
 
 - Guy in a Cube. 2020. Working with Time Periods in Power BI. https://www.youtube.com/watch?v=8Mvr_AIw2DU Date of access: 08 November 2022
 
-- Solutions Abroad. 2022. How to create a FILTER PAGE to manage multiple filters across different pages // Power BI Guide 2022 Date of acess: 08 November 2022
+- Solutions Abroad. 2022. How to create a FILTER PAGE to manage multiple filters across different pages // Power BI Guide 2022 https://www.youtube.com/watch?v=GdcR60hJhT8&t=2s  Date of acess: 08 November 2022
 
 - MS DOCS. 2022. Customize visualization titles, backgrounds, labels, and legends. https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-customize-title-background-and-legend Date of access: 09 November 2022
 
