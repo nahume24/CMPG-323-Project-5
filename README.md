@@ -29,7 +29,7 @@ https://app.powerbi.com/groups/me/reports/e85b94cf-3f77-494f-9260-84ba198bffa1/R
 
 - SharePoint. 2021. How to create a measure in Power BI. https://www.enjoysharepoint.com/create-a-measure-in-power-bi/ Date of access: 04 November 2022
 
-- Muller J. 2021. Connecting Power BI to an Excel File Stored on Microsoft Teams, SharePoint or OneDrive as a Data Source. Connecting Power BI to an Excel File Stored on Microsoft Teams, SharePoint or OneDrive as a Data Source Date of access: 05 October 2022
+- Muller J. 2021. Connecting Power BI to an Excel File Stored on Microsoft Teams, SharePoint or OneDrive as a Data Source. Connecting Power BI to an Excel File Stored on Microsoft Teams, SharePoint or OneDrive as a Data Source https://thejpanda.com/2021/03/18/power-bi-connecting-power-bi-to-an-excel-file-stored-on-microsoft-teams-sharepoint-or-onedrive-as-a-data-source/  Date of access: 05 October 2022
 
 - MS DOCS. 2022. user report themes in Power BI Desktop. https://learn.microsoft.com/en-gb/power-bi/create-reports/desktop-report-themes Date of access: 05 November 2022
 
