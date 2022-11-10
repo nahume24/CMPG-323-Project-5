@@ -5,15 +5,17 @@
 ![power bi](https://user-images.githubusercontent.com/38375869/199084882-af18019c-f9f9-4976-a125-82736e4a5c8f.gif)
 
 # Project Description
-This project will demostate how to generate a report in PowerBI. The data can be import locally through the an excel file or online via sharepoint.
-You transform
-The published report:
-https://app.powerbi.com/groups/me/reports/e85b94cf-3f77-494f-9260-84ba198bffa1/ReportSection
+Power BI Objectives allows you to connect a Report card to a particular formerly published a report in the Power BI Service for efficient information handling. This technique optimizes regular updates, minimize human performance constraints.This project will demostrate how to generate a report in PowerBI. The data can be import locally through the an excel file or online via sharepoint.You will have to clean the data.When you transform data there can bea deafult that the your heading of the columns are name column then you will have to use the first row as your heading and check if the datatypes are correct. Within the report we will monitor devices, when they are are online vs offline
+
+# How the stakeHolder will use the project
 
 The user can click the check box or move the slice to get a specific data  
 ![check box](https://user-images.githubusercontent.com/38375869/201085021-9d8ba201-b053-45bd-be5a-02236e811f9f.PNG)
 
 ![roll](https://user-images.githubusercontent.com/38375869/201085107-6347856e-4cda-4d8a-b580-1d16378a93fd.PNG)
+
+The published report:
+https://app.powerbi.com/groups/me/reports/e85b94cf-3f77-494f-9260-84ba198bffa1/ReportSection
 
 # Reference List
 
