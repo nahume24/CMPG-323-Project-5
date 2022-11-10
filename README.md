@@ -5,10 +5,16 @@
 ![power bi](https://user-images.githubusercontent.com/38375869/199084882-af18019c-f9f9-4976-a125-82736e4a5c8f.gif)
 
 # Project Description
-The report will be developed in Power BI since this institution now has all required licensing agreements in place with Microsoft, and it is anticipated to enable all stakeholders to monitor the same data related to the progress of IoT device registration on numerous channels.
-# How the user 
+This project will demostate how to generate a report in PowerBI. The data can be import locally through the an excel file or online via sharepoint.
+You transform
 The published report:
 https://app.powerbi.com/groups/me/reports/e85b94cf-3f77-494f-9260-84ba198bffa1/ReportSection
+
+The user can click the check box or move the slice to get a specific data  
+![check box](https://user-images.githubusercontent.com/38375869/201085021-9d8ba201-b053-45bd-be5a-02236e811f9f.PNG)
+
+![roll](https://user-images.githubusercontent.com/38375869/201085107-6347856e-4cda-4d8a-b580-1d16378a93fd.PNG)
+
 # Reference List
 
 - Stratvert K.2020. How to use Microsoft Power BI.https://www.youtube.com/watch?v=TmhQCQr_DCA Date of access:29 October 2022
